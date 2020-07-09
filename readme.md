@@ -12,7 +12,7 @@
 ---
 [(Back to top)](#list-of-contents)
 
-url shortener is web app created using flask , The purpose of this app is to convert long complex url's into simpler url and it also stores the visits you make to those url's
+url shortener is web app created by using flask , The purpose of this app is to convert long complex url's into simpler url and it also stores the visits you make to those url's.
 
 
 ## Working
